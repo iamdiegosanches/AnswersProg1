@@ -56,3 +56,26 @@ fazer os cálculos e exibir o total investido, o montante final e o valor total 
 distância entre esses dois pontos, cujo valor é dado pela seguinte fórmula:
 
 $$dist = \sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$$
+
+## Lista 2
+
+**Exercício 1** - Codifique um programa que, dado um número, o classifique como par ou ímpar.
+
+**Exercício 2** - Codifique um programa que, dado um número, o classifique como positivo, negativo ou neutro (0).
+
+**Exercício 3** - Codifique um programa que leia um par ordenado (x, y) e informe a qual quadrante ele pertence.
+
+**Exercício 4** - Codifique um programa que leia um intervalo (deve-se ler o valor inferior e o valor superior do
+intervalo) e um número. O programa deve dizer se o número lido está dentro ou fora do intervalo informado.
+
+**Exercício 5** - Codifique um programa que leia dois números e os imprima em ordem decrescente.
+
+**Exercício 6** - Codifique um programa que leia três números e imprima o maior deles.
+
+**Exercício 7** - Codifique um programa que leia três números e os imprima em ordem crescente.
+
+**Exercício 8** - Codifique um programa que, dados dois valores inteiros entre 1 e 10, calcule e imprima:
+
+* a média dos números, caso a soma deles seja menor que 8;
+* o produto entre os números, caso a soma deles seja igual a 8;
+* a divisão do maior número pelo menor, caso a soma deles seja maior que 8.
