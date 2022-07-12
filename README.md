@@ -86,3 +86,46 @@ Código   | Cargo
 * Notas abaixo de 5 equivalem ao conceito D.
 
 **Exercício 13** - . Codifique um programa que leia um caractere (C, c, F ou f) indicando a unidade de medida da temperatura de entrada e uma temperatura de entrada. O programa deve realizar a conversão da temperatura inserida, da unidade de entrada para a outra unidade disponível, utilizando a seguinte fórmula de Conversão: C = (5/9) ∗ (F −32). A saída do programa deve exigir a temperatura após conversão, com 2 casas decimais, e a unidade da temperatura após conversão.
+
+## Lista 3
+
+**Exercício 1** - Codifique um programa que leia 10 valores, conte quantos destes valores são negativos e imprima esta informação.
+
+**Exercício 2** - Escreva um programa que leia 6 valores e encontre o maior e o menor deles. Mostre o resultado.
+
+**Exercício 3** - Faça um programa que lê um valor N inteiro e positivo e que calcula e escreve o fatorial de N (N!).
+
+**Exercício 4** - A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber:
+
+* média do salário da população;
+* média do número de filhos;
+* maior salário;
+* percentual de pessoas com salário até R$100,00;
+
+O final da leitura de dados se dará com a entrada de um salário negativo.
+
+**Exercício 5** - Escrever um programa que leia um número inteiro n e calcule a tabuada de n. Mostre a tabuada na forma:
+
+1 ∗ n = __
+
+2 ∗ n = __
+
+. . .
+
+n ∗ n = __
+
+**Exercício 6** - Escrever um programa que leia um número não determinado de valores e calcule a média aritmética dos valores lidos, a quantidade de valores positivos, a quantidade de valores negativos e o percentual de valores negativos e positivos. Mostre os resultados. O número que encerrará a leitura será zero.
+
+**Exercício 7** - Faça um programa que leia uma quantidade não determinada de números positivos. Calcule aquantidade de números pares e ímpares, a média de valores pares e a média geral dos números lidos. O número que encerrará a leitura será zero.
+
+**Exercício 8** - Escrever um programa que lê 10 valores, um de cada vez, e conte quantos deles estão no intervalo [10,20] e quantos deles estão fora do intervalo, escrevendo estas informações.
+
+**Exercício 9** - Escrever um programa que gere e escreva os 4 primeiros números perfeitos. Um número perfeito é aquele que é igual a soma dos seus divisores exceto o próprio número. (Ex.: 6 = 1 + 2 + 3; 28 = 1+2+4+7+14 etc).
+
+**Exercício 10** - Elabore um programa em C para calcular a raiz quadrada de um número positivo, usando o roteiro abaixo, baseado no método de aproximações sucessivas de Newton. O programa deverá prover 25 aproximações.
+
+Seja Y o número do qual se deseja a raiz quadrada. Obtemos:
+
+• a primeira aproximação para a raiz quadrada de Y por X_1 = 
+
+• as demais aproximações para a raiz quadrada de Y por X_n+1 = 
